@@ -11,7 +11,9 @@ for (var j = 0; j < 101; j++) {
 } 
 
 for (var j = 0; j < 101; j++) {
-    console.log(j);
+    if (j % 4 == 0) {
+        console.log(j);
+    }
 }
 
 for (var i = -1; i < 101; i++) {
