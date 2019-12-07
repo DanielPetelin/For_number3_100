@@ -4,6 +4,10 @@
    // }
 //}
 
+var i = 1;
+
 for (var j = 0; j < 101; j++) {
+    if ((j % 3) == 0 + 1) {
     console.log(j);
+    }
 } 
