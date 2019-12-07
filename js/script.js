@@ -5,12 +5,11 @@
 //}
 
 
-
-//for (var j = 0; j < 101; j++) {
-   // if ((j % 3) == 0 + 1) {
-     //   console.log(j);
-    //}
-//} 
+for (var j = 0; j < 101; j++) {
+    if ((j % 3) == 0) {
+        console.log(j);
+    }
+} 
 
 for (var i = -1; i < 101; i++) {
     var f = 5;
