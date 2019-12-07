@@ -1,9 +1,8 @@
-//for (var i = 0; i < 101; i++) {
-  //  if (i % 3) {
-    //console.log(i);
-   // }
-//}
-
+for (var i = 0; i < 101; i++) {
+    if (i % 2 == 0) {
+        console.log(i);
+    }
+}
 
 for (var j = 0; j < 101; j++) {
     if ((j % 3) == 0) {
