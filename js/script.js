@@ -1,3 +1,5 @@
 for (var i = 0; i < 101; i++) {
+    if (i % 3) {
     console.log(i);
+    }
 }
