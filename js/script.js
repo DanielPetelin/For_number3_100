@@ -11,3 +11,7 @@ for (var j = 0; j < 101; j++) {
     console.log(j);
     }
 } 
+
+for (var c = 0; c < 101; c++) {
+    console.log(c);
+}
